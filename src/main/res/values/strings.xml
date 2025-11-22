@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">Ok</string>
+    <string name="warning">Warning</string>
+    <string name="an_error_occurred">Opps! There is an error please try again later.</string>
+    <string name="warning_page_title">Warning</string>
+    <string name="notes_from_the_business">Notes from the Business</string>
+    <string name="party_size">Party Size</string>
+    <string name="please_select_date">Please select date</string>
+    <string name="please_select_cover">Please enter party size</string>
+    <string name="please_select_time">Please select time</string>
+    <string name="please_enter_valid_cover">Please enter valid party size</string>
+    <string name="please_enter_name">Please enter first name</string>
+    <string name="please_enter_last_name">Please enter last name</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_valid_email">Please enter valid email</string>
+    <string name="please_enter_phone">Please enter phone number</string>
+</resources>
